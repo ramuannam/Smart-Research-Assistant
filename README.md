@@ -1,5 +1,5 @@
-# 🔍 Smart Research Assistant – AI-Powered Browser Extension
-Enhance your research workflow with AI-powered text summarization, Q&A, and note-saving – all within your browser!
+# 🔍 Smart Research Assistant
+Enhance your research workflow with AI-powered Browser Extension for text summarization, Q&A, and note-saving – all within your browser!
 
 ### 🚀 Features
 ✅ AI-Powered Summarization – Get concise summaries of selected text instantly.\
